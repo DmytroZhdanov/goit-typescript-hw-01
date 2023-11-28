@@ -1,4 +1,4 @@
-# goit-typescript-hw-01
+# typescript-setup
 
 This repository focusing on setting up and configuring the development environment for TypeScript.
 It includes the establishment of the GitHub repository, environment setup, compiler configuration,
